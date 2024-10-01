@@ -15,7 +15,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Icons } from "@/components/ui/icons";
 import { cn } from "@/lib/utils";
-import logo from "@/app/assets/Group 1.png";
+import logo from "@/app/assets/logo2.png";
 import Image from "next/image";
 export default function SignInPage() {
   return (
